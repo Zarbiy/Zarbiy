@@ -12,16 +12,16 @@ Bienvenue sur mon profil GitHub ! 🚀
 ## 📊 Mes stats GitHub
 
 <!-- Stats principales -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zarbiy&show_icons=true&theme=tokyonight)
 
 <!-- Graph des commits -->
-![GitHub Streak](https://streak-stats.demolab.com?user=TonPseudo&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Zarbiy&theme=tokyonight&hide_border=true)
 
 <!-- Langages les plus utilisés -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarbiy&layout=compact&theme=tokyonight)
 
 <!-- Graph d'activité -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonPseudo&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zarbiy&theme=tokyo-night)
 ---
 
 ## 🛠️ Compétences
