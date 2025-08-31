@@ -1,16 +1,36 @@
-## Hi there 👋
+# Bonjour
 
-<!--
-**Zarbiy/Zarbiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos
+- 🌱 J’apprends **Python**, **JavaScript** et **Docker**   
+
+---
+
+## 📊 Mes stats GitHub
+
+<!-- Stats principales -->
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)
+
+<!-- Graph des commits -->
+![GitHub Streak](https://streak-stats.demolab.com?user=TonPseudo&theme=tokyonight&hide_border=true)
+
+<!-- Langages les plus utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight)
+
+<!-- Graph d'activité -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonPseudo&theme=tokyo-night)
+---
+
+## 🛠️ Compétences
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+⭐️ Merci d’être passé sur mon profil !
+
