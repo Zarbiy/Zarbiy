@@ -1,28 +1,48 @@
-# Bonjour
+# 👋 Bonjour, je suis Corentin
 
 Bienvenue sur mon profil GitHub ! 🚀  
+Étudiant en informatique à l'école 42.
 
 ---
 
-## 📊 Mes stats GitHub
+## Compétences
 
-<!-- Stats principales -->
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zarbiy&show_icons=true&theme=tokyonight)
-
-<!-- Graph des commits -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Zarbiy&theme=tokyonight&hide_border=true)
-
-<!-- Graph d'activité -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zarbiy&theme=tokyo-night)
----
-
-## 🛠️ Compétences
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembler](https://img.shields.io/badge/Assembler-6E4C1E?style=for-the-badge&logo=asm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assembler-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" />
+</p>
 
 ---
 
-⭐️ Merci d’être passé sur mon profil !
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarbiy&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Quelques projets
+
+<p align="center">
+  <a href="https://github.com/lgernido/ft_transcendence">
+    <img src="https://img.shields.io/badge/Transcendence-blue?style=for-the-badge" alt="Transcendence"/>
+  </a><br>
+  <strong>Transcendence:</strong> Projet réseau inspiré de Pong/Multiplayer, développé en JS (frontend) et Python (serveur). Implémente le client/serveur, communication réseau, gestion des parties en temps réel et interface utilisateur simple.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zarbiy/Woody_woodpacker">
+    <img src="https://img.shields.io/badge/Woody_Packer-blue?style=for-the-badge" alt="Woody Packer"/>
+  </a><br>
+  <strong>Woody Packer:</strong> Packer ELF64 avec chiffrement et loader personnalisé.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zarbiy/Famine">
+    <img src="https://img.shields.io/badge/Famine-blue?style=for-the-badge" alt="Famine"/>
+  </a><br>
+  <strong>Famine:</strong> Ajoute une signature à plusieurs binaires sans modifier leur comportement.
+</p>
+
 
